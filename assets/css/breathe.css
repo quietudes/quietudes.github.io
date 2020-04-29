@@ -25,9 +25,8 @@ a:hover {
 }
 
 #home {
-  position: absolute;
-  top: 30px;
-  left: 30px;
+  display: block;
+  padding: 30px;
 }
 
 #label {
