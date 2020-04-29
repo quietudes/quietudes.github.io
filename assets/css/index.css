@@ -10,7 +10,6 @@ html, body {
   animation-name: color-shift;
   animation-duration: 10s;
   animation-iteration-count: infinite;
-
 }
 
 a {
